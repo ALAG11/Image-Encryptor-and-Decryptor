@@ -1,5 +1,5 @@
 # Image-Encryptor-and-Decryptor
-It is a GUI Image Encryptor and Decryptor Tool written in Java programming language./
+It is a GUI Image Encryptor and Decryptor Tool written in Java programming language. /
 It can take any kind of image file and can encrypt it and a unique key is needed to set in the beginning of the encryption process and only by using that unique key the file can be again decrypted to the image file.
 
 # Steps to run the Image-Encryptor-and-Decryptor Tool:
